@@ -1,0 +1,25 @@
+Java Variables
+Variables are containers for storing data values.
+
+In Java, there are different types of variables, for example:
+
+String - stores text, such as "Hello". String values are surrounded by double quotes
+int - stores integers (whole numbers), without decimals, such as 123 or -123
+float - stores floating point numbers, with decimals, such as 19.99 or -19.99
+char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
+boolean - stores values with two states: true or false
+
+
+Java Language Keywords
+Here is a list of keywords in the Java programming language. You cannot use any of the following as identifiers in your programs. The keywords const and goto are reserved, even though they are not currently used. true, false, and null might seem like keywords, but they are actually literals; you cannot use them as identifiers in your programs.
+
+abstract	continue	for	new	switch
+assert***	default	goto*	package	synchronized
+boolean	do	if	private	this
+break	double	implements	protected	throw
+byte	else	import	public	throws
+case	enum****	instanceof	return	transient
+catch	extends	int	short	try
+char	final	interface	static	void
+class	finally	long	strictfp**	volatile
+const*	float	native	super	while
